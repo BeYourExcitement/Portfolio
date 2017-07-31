@@ -1,0 +1,44 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Jonathan's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BeYourExcitement/Portfolio.git"
+  },
+  "author": "Jonathan Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeYourExcitement/Portfolio/issues"
+  },
+  "homepage": "https://github.com/BeYourExcitement/Portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "csslint-stylish": "0.0.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.7.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-csslint": "^1.0.0",
+    "gulp-html": "^0.4.7",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "pump": "^1.0.2",
+    "run-sequence": "^2.1.0",
+    "stream-combiner2": "^1.1.1"
+  }
+}
